@@ -15,7 +15,7 @@ public class Cliente {
         Exercito exercito = new Exercito(new CriadorGuerreiroMedieval());
         exercito.construirGuerreiro();
         Guerreiro guerreiro = exercito.obterGuerreiro();
-        System.out.println("Guerreiro");
+        System.out.println("Construindo guerreiro medieval...");
         System.out.println("Espada: " + guerreiro.getEspada());
         System.out.println("Armadura: " + guerreiro.getArmadura());
         System.out.println("Arco: " + guerreiro.getArco());
@@ -24,7 +24,7 @@ public class Cliente {
         exercito = new Exercito(new CriadorGuerreiroFuturista());
         exercito.construirGuerreiro();
         guerreiro = exercito.obterGuerreiro();
-        System.out.println("Guerreiro");
+        System.out.println("Construindo guerreiro futurista...");
         System.out.println("Espada: " + guerreiro.getEspada());
         System.out.println("Armadura: " + guerreiro.getArmadura());
         System.out.println("Arco: " + guerreiro.getArco());
