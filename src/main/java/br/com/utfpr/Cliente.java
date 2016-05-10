@@ -1,9 +1,9 @@
 package br.com.utfpr;
 
-import br.com.utfpr.guerreiro.Guerreiro;
-import br.com.utfpr.guerreiro.CriadorGuerreiroFuturista;
-import br.com.utfpr.guerreiro.Exercito;
-import br.com.utfpr.guerreiro.CriadorGuerreiroMedieval;
+import br.com.utfpr.bean.Guerreiro;
+import br.com.utfpr.builder.CriadorGuerreiroFuturista;
+import br.com.utfpr.director.Exercito;
+import br.com.utfpr.builder.CriadorGuerreiroMedieval;
 
 /**
  *

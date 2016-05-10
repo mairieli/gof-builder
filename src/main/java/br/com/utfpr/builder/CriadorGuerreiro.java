@@ -1,4 +1,6 @@
-package br.com.utfpr.guerreiro;
+package br.com.utfpr.builder;
+
+import br.com.utfpr.bean.Guerreiro;
 
 /**
  *

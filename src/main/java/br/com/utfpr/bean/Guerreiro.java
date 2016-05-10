@@ -1,4 +1,4 @@
-package br.com.utfpr.guerreiro;
+package br.com.utfpr.bean;
 
 /**
  *

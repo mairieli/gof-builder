@@ -1,4 +1,7 @@
-package br.com.utfpr.guerreiro;
+package br.com.utfpr.director;
+
+import br.com.utfpr.builder.CriadorGuerreiro;
+import br.com.utfpr.bean.Guerreiro;
 
 /**
  *
