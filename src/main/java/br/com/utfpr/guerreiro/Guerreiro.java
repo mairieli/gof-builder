@@ -1,4 +1,4 @@
-package br.com.builder;
+package br.com.utfpr.guerreiro;
 
 /**
  *

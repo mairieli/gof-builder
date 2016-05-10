@@ -1,10 +1,15 @@
-package br.com.builder;
+package br.com.utfpr;
+
+import br.com.utfpr.guerreiro.Guerreiro;
+import br.com.utfpr.guerreiro.CriadorGuerreiroFuturista;
+import br.com.utfpr.guerreiro.Exercito;
+import br.com.utfpr.guerreiro.CriadorGuerreiroMedieval;
 
 /**
  *
  * @author Mairieli
  */
-public class Main {
+public class Cliente {
     
     public static void main(String[] args) {
         Exercito exercito = new Exercito(new CriadorGuerreiroMedieval());
