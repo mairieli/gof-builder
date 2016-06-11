@@ -5,10 +5,6 @@ import br.com.utfpr.builder.CriadorGuerreiroFuturista;
 import br.com.utfpr.director.Exercito;
 import br.com.utfpr.builder.CriadorGuerreiroMedieval;
 
-/**
- *
- * @author Mairieli
- */
 public class Cliente {
     
     public static void main(String[] args) {
